@@ -10,8 +10,7 @@ houseRental es una aplicación innovadora de alquiler de viviendas que simplific
 - **Seguridad y confianza**: Verificación de identidad, evaluaciones de propiedades y pagos seguros.
 
 ## Capturas de Pantalla
-utils/mockUps/01_Login.png
-| ![Captura de Pantalla 1](utils/mockUps/01_Login.png **View de Login** | ![Captura de Pantalla 1](utils/mockUps/02_01_Cronograma.png) **View de cronograma** | ![Captura de Pantalla 2](utils/mockUps/02_02_crearDomi.png) **View de mas crear domicilio** | ![Captura de Pantalla 2](utils/mockUps/02_03_viewDomi.png) **View de Domicilio** |
+| ![Captura de Pantalla 1](utils/mockUps/01_Login.png) **View de Login** | ![Captura de Pantalla 1](utils/mockUps/02_01_Cronograma.png) **View de cronograma** | ![Captura de Pantalla 2](utils/mockUps/02_02_crearDomi.png) **View de mas crear domicilio** | ![Captura de Pantalla 2](utils/mockUps/02_03_viewDomi.png) **View de Domicilio** |
 |---|---|---|---|
 | ![Captura de Pantalla 1](utils/mockUps/02_menu.png) **View de menu** | | | |
 
