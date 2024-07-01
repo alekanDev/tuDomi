@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "front_tuDomi",
+    "slug": "front_tuDomi",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": ["./utils/fonts/msMadi.ttf"]
+        }
+      ]
+    ]
+  },
+  "name": "front_tuDomi"
+}

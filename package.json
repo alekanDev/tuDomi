@@ -1,0 +1,29 @@
+{
+  "name": "front_tudomi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-vector-icons/ionicons": "^7.3.1-alpha.9",
+    "axios": "^1.7.2",
+    "expo": "~51.0.9",
+    "expo-font": "^12.0.6",
+    "expo-splash-screen": "^0.27.4",
+    "expo-status-bar": "~1.12.1",
+    "formik": "^2.4.6",
+    "lottie-react-native": "^6.7.2",
+    "react": "18.2.0",
+    "react-native": "0.74.1",
+    "react-native-fast-image": "^8.6.3",
+    "react-native-toast-message": "^2.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
