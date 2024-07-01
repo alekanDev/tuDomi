@@ -1,11 +1,13 @@
 # Bienvenido a houseRental (ReactNative-Expo)
 
 ## Descripción
-houseRental es una aplicación innovadora de alquiler de viviendas que simplifica y agiliza el proceso de búsqueda de propiedades. Con una interfaz intuitiva, filtros avanzados y características de seguridad integradas, houseRental está diseñado para hacer que el proceso de alquiler sea más accesible y eficiente.
+tuDomi es una aplicación móvil intuitiva y eficiente diseñada para facilitar la programación y realización de domicilios de una manera rápida y segura. Ya sea que necesites enviar un paquete, solicitar un servicio de mensajería o recibir productos de tus tiendas favoritas, DomiGo es tu aliado perfecto. Con solo unos pocos toques en tu dispositivo móvil, puedes gestionar todos tus envíos desde la comodidad de tu hogar u oficina.
 
 ## Características Principales
 - **Exploración fácil**: Navega a través de una amplia gama de opciones de viviendas con un sistema de filtrado inteligente.
-- **Interfaz amigable**: Una experiencia del usuario diseñada para ser intuitiva y agradable.
+- **Interfaz amigable**
+Diseño Intuitivo: Navegación sencilla y accesible para usuarios de todas las edades.
+Proceso de Registro Rápido: Registro fácil mediante correo electrónico o redes sociales.
 - **Gestión eficiente de propiedades**: Beneficios tanto para inquilinos como para propietarios.
 - **Seguridad y confianza**: Verificación de identidad, evaluaciones de propiedades y pagos seguros.
 
