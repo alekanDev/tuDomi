@@ -6,8 +6,8 @@ tuDomi es una aplicación móvil intuitiva y eficiente diseñada para facilitar 
 ## Características Principales
 - **Exploración fácil**: Navega a través de una amplia gama de opciones de viviendas con un sistema de filtrado inteligente.
 - **Interfaz amigable**
-Diseño Intuitivo: Navegación sencilla y accesible para usuarios de todas las edades.
-Proceso de Registro Rápido: Registro fácil mediante correo electrónico o redes sociales.
+- Diseño Intuitivo: Navegación sencilla y accesible para usuarios de todas las edades.
+- Proceso de Registro Rápido: Registro fácil mediante correo electrónico o redes sociales.
 - **Gestión eficiente de propiedades**: Beneficios tanto para inquilinos como para propietarios.
 - **Seguridad y confianza**: Verificación de identidad, evaluaciones de propiedades y pagos seguros.
 
